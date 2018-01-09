@@ -3,17 +3,16 @@ Ventajas del maíz azul
  
 El maíz azul, contiene 20 por cierto menos almidón que el maíz amarillo.
 
-<p aling="center"> 
-  <img src=!["Maíz azul"](http://www.placeresorganicos.com/wp-content/uploads/2015/04/po_maiz_IZQ.jpg)
+<p align="center">
+  <img src="http://www.placeresorganicos.com/wp-content/uploads/2015/04/po_maiz_IZQ.jpg" width=45%>
 </p>
 
-<p align="center">
-  <img src="http://naplesseashellcompany.com/images/polished_red_abalone_seashe.jpg" width=30%>
-</p>
 Evita el crecimiento de células cancerígenas  
 
-![Maíz morado](http://delmaiz.info/wp-content/uploads/2017/02/maiz-morado-0.jpg)
-
+<p aling="center">
+ <img src="http://www.delmaiz.info/wp-content/uploads/2017/02/maiz-morado-0.jpg">
+</p>
+ 
 Contiene antocianinas, lo que lo hace resistente a plagas, rayos UV y sequía.
 
  !["sequía"](http://img.emol.com/2012/08/03/maiz-granos-sequia-alza_10542.jpg)
