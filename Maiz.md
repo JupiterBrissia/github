@@ -7,6 +7,9 @@ El maíz azul, contiene 20 por cierto menos almidón que el maíz amarillo.
 !["Maíz azul"](http://www.placeresorganicos.com/wp-content/uploads/2015/04/po_maiz_IZQ.jpg)
 </p>
 
+<p align="center">
+  <img src="http://naplesseashellcompany.com/images/polished_red_abalone_seashe.jpg" width=30%>
+</p>
 Evita el crecimiento de células cancerígenas  
 
 ![Maíz morado](http://delmaiz.info/wp-content/uploads/2017/02/maiz-morado-0.jpg)
