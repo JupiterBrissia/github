@@ -4,7 +4,7 @@ Ventajas del maíz azul
 El maíz azul, contiene 20 por cierto menos almidón que el maíz amarillo.
 
 <p aling="center"> 
-!["Maíz azul"](http://www.placeresorganicos.com/wp-content/uploads/2015/04/po_maiz_IZQ.jpg)
+  <img src=!["Maíz azul"](http://www.placeresorganicos.com/wp-content/uploads/2015/04/po_maiz_IZQ.jpg)
 </p>
 
 <p align="center">
