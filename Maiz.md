@@ -19,6 +19,7 @@ En el caso del maíz azul híbrido, se pueden tener dos ciclos agrícolas.
 
 Dentro de las practicas gastronómicas del maíz,se lleva a cabo la fertilización,el uso desmedido de este agroquímico a provocado la perdida de vegetación y erosión en suelos y eutroficación en cuerpos de agua aledaños.   
 
+![eutrofizan](https://allyouneedisbiology.files.wordpress.com/2016/10/eutrofizacion_as_conchas_2011-05-31d.jpg?w=474)
 
 
 
